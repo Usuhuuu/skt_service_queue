@@ -67,5 +67,6 @@ Instead of multiplying the current queue size by a fixed multiplier, the program
 This program provides a simple simulation of a queue system where each new person’s wait time depends on their choice of 상담 option. It uses a circular queue to efficiently manage up to 10 people and ensures that the wait times are updated dynamically as more people join the queue.
 
 ---
+<img width="546" alt="Screenshot 2025-05-11 at 10 27 17 PM" src="https://github.com/user-attachments/assets/3b15aca1-21bd-4542-87ba-ae2797d0f6ec" />
 
 
